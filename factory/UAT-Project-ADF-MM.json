@@ -1,0 +1,9 @@
+{
+	"name": "UAT-Project-ADF-MM",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af350404-9c80-4f20-95ab-15c247dd544f",
+		"tenantId": "959e45dd-0b89-4121-bc45-e865bdb7dfa3"
+	}
+}
